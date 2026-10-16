@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Gestion du CSS -->
+    <link
+      rel="stylesheet"
+      href="./node_modules/@fortawesome/fontawesome-free/css/all.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- ENTETE de PAGE -->
+    <header id="entete">
+      <div class="container">
+        <div id="logo">
+          <a href="#">Mboa <span>Market</span></a>
+        </div>
+        <div id="menu">
+          <a href="#" id="btn_panier">
+            Panier <span><i class="fa-solid fa-cart-shopping"></i></span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- CONTENEUR DE LA PAGE -->
+
+    <main id="conteneur">
+      <!-- SECTION CARROUSEL -->
+      <section id="carrousel">
+        <div
+          class="slide"
+          style="background-image: url(images/elovek-pauk_spider_man-kino-40672.jpeg)"
+        >
+          <div class="slide_conteneur">
+            <div class="slide_text">
+              <h2>Titre 1</h2>
+              <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Quibusdam consectetur doloremque magnam laboriosam corrupti aut
+                facere. Unde ratione fugit dolor in saepe odit assumenda,
+                possimus ex minus similique distinctio vitae!
+              </p>
+              <div class="buttons">
+                <a href="#">En savoir plus  
+                  <i class="fa-solid fa-arrow-right"></i> 
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--boutons d'options du slide -->
+
+        <div class="slide_options">
+          <span class="slide_left">
+            <i class="fa-solid fa-chevron-left"></i>
+          </span>
+
+          <span class="slide_right">
+            <i class="fa-solid fa-chevron-right"></i>
+          </span>
+        </div>
+      </section>
+    </main>
+
+    <!-- Gestion du Javascript -->
+    <script text="text/javascript" src="js/script.js"></script>
+  </body>
+</html>
