@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "nom": "poivre blanc de penja",
+        "categorie": "Epices",
+        "prix": 6000,
+        "unite": "500 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 100,
+        "description": "poivre réputé, cultivé dans la vallée de Penja"
+    },
+    {
+        "id": 2,
+        "nom": "poivre noir de penja",
+        "categorie": "Epices",
+        "prix": 5500,
+        "unite": "500 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 150,
+        "description": "poivre noir premium de qualité supérieure"
+    },
+    {
+        "id": 3,
+        "nom": "gingembre frais",
+        "categorie": "Epices",
+        "prix": 2500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-leaf",
+        "stock": 200,
+        "description": "gingembre frais, piquant et aromatique"
+    },
+    {
+        "id": 4,
+        "nom": "curcuma en poudre",
+        "categorie": "Epices",
+        "prix": 3000,
+        "unite": "250 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 120,
+        "description": "curcuma pur, riche en saveur"
+    },
+    {
+        "id": 5,
+        "nom": "clou de girofle",
+        "categorie": "Epices",
+        "prix": 4500,
+        "unite": "100 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 80,
+        "description": "clous de girofle entiers, saveur intense"
+    },
+    {
+        "id": 6,
+        "nom": "cannelle en bâton",
+        "categorie": "Epices",
+        "prix": 3500,
+        "unite": "100 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 90,
+        "description": "cannelle naturelle de Ceylan"
+    },
+    {
+        "id": 7,
+        "nom": "noix de muscade entière",
+        "categorie": "Epices",
+        "prix": 5000,
+        "unite": "50 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 60,
+        "description": "noix de muscade premium pour moudre"
+    },
+    {
+        "id": 8,
+        "nom": "cardamome verte",
+        "categorie": "Epices",
+        "prix": 6500,
+        "unite": "100 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 75,
+        "description": "cardamome verte aromatique"
+    },
+    {
+        "id": 9,
+        "nom": "coriandre en grains",
+        "categorie": "Epices",
+        "prix": 2800,
+        "unite": "200 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 110,
+        "description": "graines de coriandre séchées"
+    },
+    {
+        "id": 10,
+        "nom": "aneth frais",
+        "categorie": "Epices",
+        "prix": 1500,
+        "unite": "100 g",
+        "icon": "fa-solid fa-leaf",
+        "stock": 40,
+        "description": "aneth aromatique frais"
+    },
+    {
+        "id": 11,
+        "nom": "banane plantain jaune",
+        "categorie": "Fruits",
+        "prix": 1800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 250,
+        "description": "banane plantain mûre et savoureuse"
+    },
+    {
+        "id": 12,
+        "nom": "banane jaune douce",
+        "categorie": "Fruits",
+        "prix": 1200,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 300,
+        "description": "banane sucrée et tendre"
+    },
+    {
+        "id": 13,
+        "nom": "mangue Kent",
+        "categorie": "Fruits",
+        "prix": 3500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 180,
+        "description": "mangue Kent juteuse et sucrée"
+    },
+    {
+        "id": 14,
+        "nom": "mangue Ataulfo",
+        "categorie": "Fruits",
+        "prix": 2800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 200,
+        "description": "petite mangue succulente"
+    },
+    {
+        "id": 15,
+        "nom": "papaye verte",
+        "categorie": "Fruits",
+        "prix": 2000,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 150,
+        "description": "papaye verte idéale pour la cuisine"
+    },
+    {
+        "id": 16,
+        "nom": "papaye mûre",
+        "categorie": "Fruits",
+        "prix": 2500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 130,
+        "description": "papaye mûre et douce"
+    },
+    {
+        "id": 17,
+        "nom": "ananas",
+        "categorie": "Fruits",
+        "prix": 2200,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 220,
+        "description": "ananas frais et juteux"
+    },
+    {
+        "id": 18,
+        "nom": "orange",
+        "categorie": "Fruits",
+        "prix": 1500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 350,
+        "description": "orange juteuse et sucrée"
+    },
+    {
+        "id": 19,
+        "nom": "citron frais",
+        "categorie": "Fruits",
+        "prix": 1200,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 280,
+        "description": "citron acide et parfumé"
+    },
+    {
+        "id": 20,
+        "nom": "avocat",
+        "categorie": "Fruits",
+        "prix": 3000,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-apple-whole",
+        "stock": 100,
+        "description": "avocat crémeux et riche"
+    },
+    {
+        "id": 21,
+        "nom": "tomate rouge",
+        "categorie": "Légumes",
+        "prix": 1500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 400,
+        "description": "tomate rouge fraîche et juteuse"
+    },
+    {
+        "id": 22,
+        "nom": "tomate cerise",
+        "categorie": "Légumes",
+        "prix": 2500,
+        "unite": "500 g",
+        "icon": "fa-solid fa-carrot",
+        "stock": 200,
+        "description": "tomates cerises sucrées"
+    },
+    {
+        "id": 23,
+        "nom": "poivron rouge",
+        "categorie": "Légumes",
+        "prix": 2000,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 250,
+        "description": "poivron rouge sucré"
+    },
+    {
+        "id": 24,
+        "nom": "poivron vert",
+        "categorie": "Légumes",
+        "prix": 1800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 280,
+        "description": "poivron vert frais"
+    },
+    {
+        "id": 25,
+        "nom": "oignon rouge",
+        "categorie": "Légumes",
+        "prix": 1000,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 500,
+        "description": "oignon rouge savoureux"
+    },
+    {
+        "id": 26,
+        "nom": "oignon blanc",
+        "categorie": "Légumes",
+        "prix": 900,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 550,
+        "description": "oignon blanc doux"
+    },
+    {
+        "id": 27,
+        "nom": "ail blanc",
+        "categorie": "Légumes",
+        "prix": 3500,
+        "unite": "500 g",
+        "icon": "fa-solid fa-carrot",
+        "stock": 150,
+        "description": "ail blanc frais et pungent"
+    },
+    {
+        "id": 28,
+        "nom": "chou blanc",
+        "categorie": "Légumes",
+        "prix": 1500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 300,
+        "description": "chou blanc croustillant"
+    },
+    {
+        "id": 29,
+        "nom": "chou rouge",
+        "categorie": "Légumes",
+        "prix": 1600,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 250,
+        "description": "chou rouge nutritif"
+    },
+    {
+        "id": 30,
+        "nom": "carotte orange",
+        "categorie": "Légumes",
+        "prix": 1200,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 400,
+        "description": "carotte croquante et sucrée"
+    },
+    {
+        "id": 31,
+        "nom": "betterave rouge",
+        "categorie": "Légumes",
+        "prix": 1800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 200,
+        "description": "betterave sucrée et colorée"
+    },
+    {
+        "id": 32,
+        "nom": "épinard frais",
+        "categorie": "Légumes",
+        "prix": 2000,
+        "unite": "500 g",
+        "icon": "fa-solid fa-leaf",
+        "stock": 180,
+        "description": "épinard tendre et nutritif"
+    },
+    {
+        "id": 33,
+        "nom": "salade verte",
+        "categorie": "Légumes",
+        "prix": 1500,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-leaf",
+        "stock": 300,
+        "description": "salade verte croustillante"
+    },
+    {
+        "id": 34,
+        "nom": "concombre",
+        "categorie": "Légumes",
+        "prix": 1200,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 350,
+        "description": "concombre frais et croquant"
+    },
+    {
+        "id": 35,
+        "nom": "aubergine",
+        "categorie": "Légumes",
+        "prix": 1800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 220,
+        "description": "aubergine violette et tendre"
+    },
+    {
+        "id": 36,
+        "nom": "brocoli",
+        "categorie": "Légumes",
+        "prix": 2500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 150,
+        "description": "brocoli vert frais"
+    },
+    {
+        "id": 37,
+        "nom": "chou-fleur",
+        "categorie": "Légumes",
+        "prix": 2200,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 180,
+        "description": "chou-fleur blanc et tendre"
+    },
+    {
+        "id": 38,
+        "nom": "courge butternut",
+        "categorie": "Légumes",
+        "prix": 2000,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 120,
+        "description": "courge sucrée et crémeuse"
+    },
+    {
+        "id": 39,
+        "nom": "haricot vert",
+        "categorie": "Légumes",
+        "prix": 2300,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 200,
+        "description": "haricot vert tendre"
+    },
+    {
+        "id": 40,
+        "nom": "piment rouge",
+        "categorie": "Épices",
+        "prix": 2800,
+        "unite": "500 g",
+        "icon": "fa-solid fa-mortar-pestle",
+        "stock": 140,
+        "description": "piment rouge épicé"
+    },
+    {
+        "id": 41,
+        "nom": "riz blanc",
+        "categorie": "Céréales",
+        "prix": 1500,
+        "unite": "2 kg",
+        "icon": "fa-solid fa-wheat-awn",
+        "stock": 1000,
+        "description": "riz blanc de qualité"
+    },
+    {
+        "id": 42,
+        "nom": "riz complet",
+        "categorie": "Céréales",
+        "prix": 1800,
+        "unite": "2 kg",
+        "icon": "fa-solid fa-wheat-awn",
+        "stock": 800,
+        "description": "riz complet nutritif"
+    },
+    {
+        "id": 43,
+        "nom": "farine de blé",
+        "categorie": "Céréales",
+        "prix": 1200,
+        "unite": "2 kg",
+        "icon": "fa-solid fa-wheat-awn",
+        "stock": 1200,
+        "description": "farine de blé premium"
+    },
+    {
+        "id": 44,
+        "nom": "farine de maïs",
+        "categorie": "Céréales",
+        "prix": 1500,
+        "unite": "2 kg",
+        "icon": "fa-solid fa-wheat-awn",
+        "stock": 900,
+        "description": "farine de maïs jaune"
+    },
+    {
+        "id": 45,
+        "nom": "semoule",
+        "categorie": "Céréales",
+        "prix": 1600,
+        "unite": "2 kg",
+        "icon": "fa-solid fa-wheat-awn",
+        "stock": 700,
+        "description": "semoule fine"
+    },
+    {
+        "id": 46,
+        "nom": "maïs doux",
+        "categorie": "Légumes",
+        "prix": 1800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-carrot",
+        "stock": 250,
+        "description": "maïs doux croquant"
+    },
+    {
+        "id": 47,
+        "nom": "haricot rouge sec",
+        "categorie": "Légumineuses",
+        "prix": 2500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-circle",
+        "stock": 400,
+        "description": "haricot rouge séché"
+    },
+    {
+        "id": 48,
+        "nom": "pois chiche",
+        "categorie": "Légumineuses",
+        "prix": 2300,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-circle",
+        "stock": 350,
+        "description": "pois chiche pour hummus"
+    },
+    {
+        "id": 49,
+        "nom": "lentille corail",
+        "categorie": "Légumineuses",
+        "prix": 2800,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-circle",
+        "stock": 300,
+        "description": "lentille corail rapide"
+    },
+    {
+        "id": 50,
+        "nom": "lentille verte",
+        "categorie": "Légumineuses",
+        "prix": 2600,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-circle",
+        "stock": 280,
+        "description": "lentille verte du Puy"
+    },
+    {
+        "id": 51,
+        "nom": "sucre blanc",
+        "categorie": "Produits secs",
+        "prix": 1200,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-cube",
+        "stock": 800,
+        "description": "sucre blanc cristallisé"
+    },
+    {
+        "id": 52,
+        "nom": "sucre roux",
+        "categorie": "Produits secs",
+        "prix": 1400,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-cube",
+        "stock": 600,
+        "description": "sucre roux caramélisé"
+    },
+    {
+        "id": 53,
+        "nom": "miel naturel",
+        "categorie": "Produits secs",
+        "prix": 8000,
+        "unite": "500 g",
+        "icon": "fa-solid fa-droplet",
+        "stock": 150,
+        "description": "miel naturel pur"
+    },
+    {
+        "id": 54,
+        "nom": "huile d'arachide",
+        "categorie": "Huiles",
+        "prix": 3500,
+        "unite": "1 L",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 300,
+        "description": "huile d'arachide raffinnée"
+    },
+    {
+        "id": 55,
+        "nom": "huile de palme",
+        "categorie": "Huiles",
+        "prix": 3000,
+        "unite": "1 L",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 400,
+        "description": "huile de palme rouge"
+    },
+    {
+        "id": 56,
+        "nom": "huile d'olive",
+        "categorie": "Huiles",
+        "prix": 6500,
+        "unite": "500 ml",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 100,
+        "description": "huile d'olive vierge"
+    },
+    {
+        "id": 57,
+        "nom": "beurre frais",
+        "categorie": "Produits laitiers",
+        "prix": 4500,
+        "unite": "250 g",
+        "icon": "fa-solid fa-cube",
+        "stock": 120,
+        "description": "beurre frais de qualité"
+    },
+    {
+        "id": 58,
+        "nom": "lait frais",
+        "categorie": "Produits laitiers",
+        "prix": 1500,
+        "unite": "1 L",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 500,
+        "description": "lait frais pasteurisé"
+    },
+    {
+        "id": 59,
+        "nom": "fromage blanc",
+        "categorie": "Produits laitiers",
+        "prix": 3000,
+        "unite": "500 g",
+        "icon": "fa-solid fa-cube",
+        "stock": 150,
+        "description": "fromage blanc frais"
+    },
+    {
+        "id": 60,
+        "nom": "yaourt nature",
+        "categorie": "Produits laitiers",
+        "prix": 2500,
+        "unite": "500 g",
+        "icon": "fa-solid fa-cube",
+        "stock": 250,
+        "description": "yaourt nature lisse"
+    },
+    {
+        "id": 61,
+        "nom": "œuf de poule",
+        "categorie": "Œufs",
+        "prix": 600,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-egg",
+        "stock": 1000,
+        "description": "œuf frais de poule"
+    },
+    {
+        "id": 62,
+        "nom": "œuf de caille",
+        "categorie": "Œufs",
+        "prix": 400,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-egg",
+        "stock": 500,
+        "description": "œuf de caille petit"
+    },
+    {
+        "id": 63,
+        "nom": "poulet fermier",
+        "categorie": "Volaille",
+        "prix": 4500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-drumstick-bite",
+        "stock": 200,
+        "description": "poulet fermier de qualité"
+    },
+    {
+        "id": 64,
+        "nom": "œuf de poule fermière",
+        "categorie": "Volaille",
+        "prix": 500,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-egg",
+        "stock": 800,
+        "description": "œuf fermier clair"
+    },
+    {
+        "id": 65,
+        "nom": "poisson frais",
+        "categorie": "Poissons",
+        "prix": 5500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-fish",
+        "stock": 150,
+        "description": "poisson blanc frais du jour"
+    },
+    {
+        "id": 66,
+        "nom": "crevette fraîche",
+        "categorie": "Poissons",
+        "prix": 8000,
+        "unite": "500 g",
+        "icon": "fa-solid fa-fish",
+        "stock": 80,
+        "description": "crevette rose fraîche"
+    },
+    {
+        "id": 67,
+        "nom": "viande de bœuf",
+        "categorie": "Viandes",
+        "prix": 6000,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-drumstick-bite",
+        "stock": 120,
+        "description": "bœuf de qualité supérieure"
+    },
+    {
+        "id": 68,
+        "nom": "viande de mouton",
+        "categorie": "Viandes",
+        "prix": 5500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-drumstick-bite",
+        "stock": 100,
+        "description": "mouton tendre et savoureux"
+    },
+    {
+        "id": 69,
+        "nom": "pain blanc",
+        "categorie": "Boulangerie",
+        "prix": 800,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bread-slice",
+        "stock": 500,
+        "description": "pain blanc frais"
+    },
+    {
+        "id": 70,
+        "nom": "pain complet",
+        "categorie": "Boulangerie",
+        "prix": 900,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bread-slice",
+        "stock": 400,
+        "description": "pain complet nutritif"
+    },
+    {
+        "id": 71,
+        "nom": "pain de seigle",
+        "categorie": "Boulangerie",
+        "prix": 1000,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bread-slice",
+        "stock": 250,
+        "description": "pain de seigle savoureux"
+    },
+    {
+        "id": 72,
+        "nom": "baguette",
+        "categorie": "Boulangerie",
+        "prix": 700,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bread-slice",
+        "stock": 600,
+        "description": "baguette croustillante"
+    },
+    {
+        "id": 73,
+        "nom": "croissant au beurre",
+        "categorie": "Boulangerie",
+        "prix": 1200,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bread-slice",
+        "stock": 300,
+        "description": "croissant doré et feuilleté"
+    },
+    {
+        "id": 74,
+        "nom": "pain au chocolat",
+        "categorie": "Boulangerie",
+        "prix": 1300,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bread-slice",
+        "stock": 350,
+        "description": "pain au chocolat gourmand"
+    },
+    {
+        "id": 75,
+        "nom": "café moulu",
+        "categorie": "Boissons",
+        "prix": 4500,
+        "unite": "250 g",
+        "icon": "fa-solid fa-mug-hot",
+        "stock": 200,
+        "description": "café moulu premium"
+    },
+    {
+        "id": 76,
+        "nom": "café en grains",
+        "categorie": "Boissons",
+        "prix": 5000,
+        "unite": "250 g",
+        "icon": "fa-solid fa-mug-hot",
+        "stock": 150,
+        "description": "café en grains arabica"
+    },
+    {
+        "id": 77,
+        "nom": "thé noir",
+        "categorie": "Boissons",
+        "prix": 3500,
+        "unite": "100 g",
+        "icon": "fa-solid fa-mug-hot",
+        "stock": 180,
+        "description": "thé noir du Cameroun"
+    },
+    {
+        "id": 78,
+        "nom": "thé vert",
+        "categorie": "Boissons",
+        "prix": 4000,
+        "unite": "100 g",
+        "icon": "fa-solid fa-mug-hot",
+        "stock": 140,
+        "description": "thé vert antioxydant"
+    },
+    {
+        "id": 79,
+        "nom": "chocolat en poudre",
+        "categorie": "Boissons",
+        "prix": 3000,
+        "unite": "500 g",
+        "icon": "fa-solid fa-mug-hot",
+        "stock": 220,
+        "description": "chocolat en poudre savoureux"
+    },
+    {
+        "id": 80,
+        "nom": "eau minérale",
+        "categorie": "Boissons",
+        "prix": 1000,
+        "unite": "1.5 L",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 1000,
+        "description": "eau minérale gazeuse"
+    },
+    {
+        "id": 81,
+        "nom": "jus d'orange",
+        "categorie": "Boissons",
+        "prix": 2000,
+        "unite": "1 L",
+        "icon": "fa-solid fa-glass",
+        "stock": 300,
+        "description": "jus d'orange frais pressé"
+    },
+    {
+        "id": 82,
+        "nom": "savon bain",
+        "categorie": "Hygiène",
+        "prix": 800,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-soap",
+        "stock": 500,
+        "description": "savon doux pour le bain"
+    },
+    {
+        "id": 83,
+        "nom": "shampooing",
+        "categorie": "Hygiène",
+        "prix": 2500,
+        "unite": "250 ml",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 250,
+        "description": "shampooing doux et nourrissant"
+    },
+    {
+        "id": 84,
+        "nom": "dentifrice",
+        "categorie": "Hygiène",
+        "prix": 1500,
+        "unite": "75 ml",
+        "icon": "fa-solid fa-tooth",
+        "stock": 300,
+        "description": "dentifrice menthe fraîche"
+    },
+    {
+        "id": 85,
+        "nom": "brosse à dent",
+        "categorie": "Hygiène",
+        "prix": 500,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-tooth",
+        "stock": 400,
+        "description": "brosse à dent souple"
+    },
+    {
+        "id": 86,
+        "nom": "déodorant",
+        "categorie": "Hygiène",
+        "prix": 1800,
+        "unite": "150 ml",
+        "icon": "fa-solid fa-spray-can",
+        "stock": 350,
+        "description": "déodorant 24h frais"
+    },
+    {
+        "id": 87,
+        "nom": "savon liquide",
+        "categorie": "Hygiène",
+        "prix": 1200,
+        "unite": "500 ml",
+        "icon": "fa-solid fa-soap",
+        "stock": 400,
+        "description": "savon liquide antibactérien"
+    },
+    {
+        "id": 88,
+        "nom": "papier hygiénique",
+        "categorie": "Papeterie",
+        "prix": 1500,
+        "unite": "6 rouleaux",
+        "icon": "fa-solid fa-scroll",
+        "stock": 800,
+        "description": "papier hygiénique doux"
+    },
+    {
+        "id": 89,
+        "nom": "serviettes hygiéniques",
+        "categorie": "Hygiène",
+        "prix": 2500,
+        "unite": "16 pièces",
+        "icon": "fa-solid fa-box",
+        "stock": 300,
+        "description": "serviettes hygiéniques jour"
+    },
+    {
+        "id": 90,
+        "nom": "couches bébé",
+        "categorie": "Bébé",
+        "prix": 5500,
+        "unite": "44 pièces",
+        "icon": "fa-solid fa-baby",
+        "stock": 200,
+        "description": "couches bébé confortables"
+    },
+    {
+        "id": 91,
+        "nom": "lait infantile",
+        "categorie": "Bébé",
+        "prix": 4500,
+        "unite": "400 g",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 150,
+        "description": "lait infantile première étape"
+    },
+    {
+        "id": 92,
+        "nom": "couverture bébé",
+        "categorie": "Bébé",
+        "prix": 2500,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-blanket",
+        "stock": 100,
+        "description": "couverture bébé douce"
+    },
+    {
+        "id": 93,
+        "nom": "biberon",
+        "categorie": "Bébé",
+        "prix": 1500,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 250,
+        "description": "biberon 240 ml anticolique"
+    },
+    {
+        "id": 94,
+        "nom": "sucette bébé",
+        "categorie": "Bébé",
+        "prix": 800,
+        "unite": "1 pièce",
+        "icon": "fa-solid fa-circle",
+        "stock": 300,
+        "description": "sucette orthodontique"
+    },
+    {
+        "id": 95,
+        "nom": "gelée royale",
+        "categorie": "Produits naturels",
+        "prix": 12000,
+        "unite": "50 g",
+        "icon": "fa-solid fa-droplet",
+        "stock": 50,
+        "description": "gelée royale premium pure"
+    },
+    {
+        "id": 96,
+        "nom": "propolis",
+        "categorie": "Produits naturels",
+        "prix": 5000,
+        "unite": "50 ml",
+        "icon": "fa-solid fa-droplet",
+        "stock": 80,
+        "description": "propolis en sirop naturelle"
+    },
+    {
+        "id": 97,
+        "nom": "huile essentielle eucalyptus",
+        "categorie": "Produits naturels",
+        "prix": 3500,
+        "unite": "10 ml",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 120,
+        "description": "huile essentielle naturelle"
+    },
+    {
+        "id": 98,
+        "nom": "savon noir",
+        "categorie": "Hygiène",
+        "prix": 1500,
+        "unite": "500 g",
+        "icon": "fa-solid fa-soap",
+        "stock": 200,
+        "description": "savon noir naturel et pur"
+    },
+    {
+        "id": 99,
+        "nom": "beurre de karité",
+        "categorie": "Produits naturels",
+        "prix": 4500,
+        "unite": "200 g",
+        "icon": "fa-solid fa-droplet",
+        "stock": 150,
+        "description": "beurre de karité brut naturel"
+    },
+    {
+        "id": 100,
+        "nom": "pâtes spaghetti",
+        "categorie": "Pâtes",
+        "prix": 1800,
+        "unite": "500 g",
+        "icon": "fa-solid fa-noodles",
+        "stock": 400,
+        "description": "pâtes spaghetti qualité premium"
+    },
+    {
+        "id": 101,
+        "nom": "pâtes macaroni",
+        "categorie": "Pâtes",
+        "prix": 1700,
+        "unite": "500 g",
+        "icon": "fa-solid fa-noodles",
+        "stock": 350,
+        "description": "pâtes macaroni croustillantes"
+    },
+    {
+        "id": 102,
+        "nom": "pâtes fusilli",
+        "categorie": "Pâtes",
+        "prix": 1800,
+        "unite": "500 g",
+        "icon": "fa-solid fa-noodles",
+        "stock": 320,
+        "description": "pâtes fusilli en spirale"
+    },
+    {
+        "id": 103,
+        "nom": "sauce tomate",
+        "categorie": "Conserves",
+        "prix": 1200,
+        "unite": "400 g",
+        "icon": "fa-solid fa-jar",
+        "stock": 500,
+        "description": "sauce tomate cuisinée"
+    },
+    {
+        "id": 104,
+        "nom": "conserve thon",
+        "categorie": "Conserves",
+        "prix": 2000,
+        "unite": "185 g",
+        "icon": "fa-solid fa-jar",
+        "stock": 300,
+        "description": "thon en conserve à l'huile"
+    },
+    {
+        "id": 105,
+        "nom": "conserve sardine",
+        "categorie": "Conserves",
+        "prix": 1500,
+        "unite": "120 g",
+        "icon": "fa-solid fa-jar",
+        "stock": 400,
+        "description": "sardines en conserve naturelle"
+    },
+    {
+        "id": 106,
+        "nom": "confiture fraise",
+        "categorie": "Conserves",
+        "prix": 2500,
+        "unite": "400 g",
+        "icon": "fa-solid fa-jar",
+        "stock": 200,
+        "description": "confiture de fraise artisanale"
+    },
+    {
+        "id": 107,
+        "nom": "moutarde",
+        "categorie": "Condiments",
+        "prix": 1500,
+        "unite": "250 g",
+        "icon": "fa-solid fa-jar",
+        "stock": 250,
+        "description": "moutarde classique jaune"
+    },
+    {
+        "id": 108,
+        "nom": "mayonnaise",
+        "categorie": "Condiments",
+        "prix": 2000,
+        "unite": "300 g",
+        "icon": "fa-solid fa-jar",
+        "stock": 280,
+        "description": "mayonnaise crémeuse premium"
+    },
+    {
+        "id": 109,
+        "nom": "vinaigre blanc",
+        "categorie": "Condiments",
+        "prix": 1200,
+        "unite": "750 ml",
+        "icon": "fa-solid fa-bottle-water",
+        "stock": 350,
+        "description": "vinaigre blanc pur"
+    },
+    {
+        "id": 110,
+        "nom": "sel fin",
+        "categorie": "Produits secs",
+        "prix": 500,
+        "unite": "1 kg",
+        "icon": "fa-solid fa-cube",
+        "stock": 1000,
+        "description": "sel fin marin iodé"
+    }
+]
